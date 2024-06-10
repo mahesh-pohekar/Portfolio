@@ -207,9 +207,12 @@ hr{
     .endfooter{
         text-align: center;
         font-size: 10px;
-        bottom: -950px;
         position: relative;
         width: 100%;
+        }
+        .homefoot{
+        bottom: -950px;
+
     }
   }
 
