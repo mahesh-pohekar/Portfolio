@@ -352,6 +352,9 @@ ul input{
     }
 }
 @media screen and (max-width:480px) {
+    .template{
+        width: 80vw;
+    }
     h4{
         display: block;
         margin: 0;
@@ -366,6 +369,9 @@ ul input{
     }
 }
 @media screen and (max-width:372px) {
+    .template{
+        width: 80vw;
+    }
     .row{
         font-size: 75%;
     }
