@@ -17,7 +17,7 @@ a:hover{
   animation: fadeInAnimation ease 2s;
   animation-iteration-count: 1;
   animation-fill-mode: forwards;
-  
+
 }
 
 
@@ -439,4 +439,10 @@ input:invalid{
 
 input:hover{
     border-color: black;
+}
+
+@media screen and (max-width:768px) {
+    .form-div{
+        width: 80vw;
+    }
 }
